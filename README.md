@@ -2,7 +2,7 @@
 
 Implements the API documented at [https://docs.posthook.io/](https://docs.posthook.io/)
 
-install with `go get -u github.com/pims/posthook`
+Install with `go get -u github.com/pims/posthook`
 
 example use:
 
